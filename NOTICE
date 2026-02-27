@@ -1,0 +1,31 @@
+NOTICE
+
+This product includes software derived from HackerDoomsday,
+originally created by EZIKALEXANDR.
+
+Original project: https://github.com/EZIKALEXANDR/HackerDoomsday
+Original author: EZIKALEXANDR (https://github.com/EZIKALEXANDR)
+Original license: Apache License, Version 2.0
+
+Copyright (c) EZIKALEXANDR
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+---
+
+MODIFICATIONS
+
+This repository contains a modified version of the original
+HackerDoomsday project. The code has been altered to be safe
+for educational and security research purposes only.
+
+This modified version is intended solely for:
+- Security education
+- Malware analysis and research
+- Understanding GDI-based attack techniques in a safe context
+
+It is NOT intended to be compiled or deployed against real systems.
