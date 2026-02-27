@@ -33,7 +33,7 @@ A progress bar runs from 0% to 100%. Before 50% it appears normal. At **50%**, e
 ### Phase 3 — First Hacker Video 🎬
 Once the progress bar completes, a **Hacker starts talking to you** (`Hacker.mp4`) plays fullscreen with audio.
 
-![Installation screen](https://github.com/user-attachments/assets/59f01a29-6b12-4ba5-9fc7-d63d25fa6fb8)
+![Installation screen](https://github.com/user-attachments/assets/8a1cf927-dca7-45bb-9510-e426042dfbc4)
 
 ---
 
