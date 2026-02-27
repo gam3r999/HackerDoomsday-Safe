@@ -1,0 +1,17 @@
+ctypes
+os
+pygame
+psutil
+shutil
+threading
+sys
+win32gui
+time
+collections
+subprocess
+winreg
+keyboard
+win32com
+tkinter
+PIL
+moviepy==1.0.3
