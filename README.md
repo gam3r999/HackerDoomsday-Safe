@@ -64,7 +64,7 @@ After **60 seconds** of GDI chaos, the effects stop on their own.
 ### Phase 5 — Process Monitor (runs forever after GDI stops)
 If the user opens any of the following apps, the GDI effects immediately stop and a second **Hacker video** (`Hacker2.mp4`) plays fullscreen, followed by a **real but clean BSOD**:
 
-- Task Manager (`mmc.exe`, `resmon.exe`, `perfmon.exe`)
+- Task Manager (`mmc.exe`, `resmon.exe`, `perfmon.exe`, `Taskmgr.exe`)
 - System restore tools (`msconfig.exe`, `rstrui.exe`, `RecoveryDrive.exe`, `SystemPropertiesProtection.exe`)
 - Process analysis tools (`ProcessHacker.exe`, `SystemInformer.exe`, `ProcessExplorer.exe`)
 
